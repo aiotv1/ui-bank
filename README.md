@@ -34,7 +34,7 @@ python -m http.server 5173
 ثم افتح الرابط:
 
 ```
-http://localhost:5173/cih-login.html
+http://localhost:5173/index.html
 ```
 
 يُعرض التطبيق داخل إطار هاتف على الشاشات العريضة، وبملء الشاشة على الهاتف.
